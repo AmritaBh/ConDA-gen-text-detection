@@ -1,6 +1,10 @@
 # ConDA-gen-text-detection
 Code for the paper: **ConDA: Contrastive Domain Adaptation for AI-generated Text Detection** accepted at IJCNLP-AACL 2023 [paper link](https://arxiv.org/abs/2309.03992).
 
+### :star2: Great News! [Nov 4, 2023] :star2: Our paper won the **Outstanding Paper Award** at IJCNLP-AACL 2023 held in Bali, Indonesia.
+
+
+
 ![ConDA Framework Diagram](https://github.com/AmritaBh/ConDA-gen-text-detection/blob/main/conda-framework.jpg)
 
 ## Setup
