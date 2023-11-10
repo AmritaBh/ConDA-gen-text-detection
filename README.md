@@ -42,6 +42,23 @@ Here we provide links to pre-trained ConDA models for the best performing models
 | XLM  | GROVER_mega  | [link](https://www.dropbox.com/s/q6ddq2aop9qw8lo/grover_mega_xlm_syn_rep_loss1.pt?dl=0) |
 | ChatGPT  | FAIR_wmt19  | [link](https://www.dropbox.com/s/sgwiucl1x7p7xsx/fair_wmt19_chatgpt_syn_rep_loss1.pt?dl=0) |
 
+# Citation
+
+If you use (part of) this code, please cite our paper as:
+
+```
+@InProceedings{bhattacharjee-EtAl:2023:ijcnlp,
+  author    = {Bhattacharjee, Amrita  and  Kumarage, Tharindu  and  Moraffah, Raha  and  Liu, Huan},
+  title     = {ConDA: Contrastive Domain Adaptation for AI-generated Text Detection},
+  booktitle      = {Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics},
+  month          = {November},
+  year           = {2023},
+  address        = {Nusa Dua, Bali},
+  publisher      = {Association for Computational Linguistics},
+  pages     = {598--610},
+  url       = {https://aclanthology.org/2023.ijcnlp-long.40}
+}
+```
 
 # Contact
 
