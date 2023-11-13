@@ -15,7 +15,7 @@ Make directories for the models, output logs and huggingface model files.
 
 `mkdir models huggingface_repos output_logs`
 
-Download `roberta-base` from [here](https://huggingface.co/roberta-base/tree/main) and/or `roberta-large` from [here](https://huggingface.co/roberta-large/tree/main) and place these repositories in `huggungface_repos`.
+Download `roberta-base` from [here](https://huggingface.co/roberta-base/tree/main) and/or `roberta-large` from [here](https://huggingface.co/roberta-large/tree/main) and place these repositories in `huggingface_repos`.
 
 `contrast_training_with_da.py` is the ConDA training script. The `multi_domain_runner.py` is the runner script for training ConDA models. Update the arguments in `multi_domain_runner.py` to train models as needed. 
 
